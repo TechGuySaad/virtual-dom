@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#l ive link
+# live link
 https://friendly-sprite-da2ccd.netlify.app/
 ## Available Scripts
 
